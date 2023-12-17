@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Christophe
 - 👀 I’m interested in statistical physics, deep learning and quantitative finance
 - 👀 I'm currently reading a lot about self-avoiding random walks. It is a truly fascinating topic
-- 👀 I'm also very curious about quantum computing (in the limit scope of quantum algorithmic) 
-- 🌱 I’m currently learning artificial intelligence for finance at AIFI
+- 👀 I'm also very curious about quantum computing (in the limited scope of quantum algorithmic) 
+- 🌱 I’ve just completed the artificial intelligence for finance at AIFI
 - 💞️ I’m looking to exchange ideas. I'm a casual coder so I welcome any good Python advices.
 - 📫 How to reach me: laforge4104 at gmail.com
 
